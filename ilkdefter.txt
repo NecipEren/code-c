@@ -1,2 +1,0 @@
-eren
-git ignore konusunu bitirdik
